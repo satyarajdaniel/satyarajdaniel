@@ -1,5 +1,5 @@
 👋 Hi, I'm Satyaraj Daniel
-SDET | Test Automation Architect | Quality Engineering Enthusiast
+SDET | Test Automation Engineer | Quality Engineering Enthusiast
 
 I'm a Software Development Engineer in Test passionate about building robust test automation frameworks and ensuring software quality through intelligent testing strategies. My GitHub showcases my journey in blending development skills with testing expertise.
 
